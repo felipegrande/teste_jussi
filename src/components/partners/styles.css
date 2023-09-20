@@ -1,0 +1,29 @@
+.partners_container{
+    background-color:  #F2F2F2;
+    padding: 23px;
+}
+.partners_container  ::-webkit-scrollbar {
+    width: 0;
+}
+.partners_container_content{
+    display: flex;
+    max-width: 1014px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    gap: 48px;
+    overflow-x: scroll;
+}
+.partners_container_text{
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    white-space: nowrap;
+}
+@media(min-width: 700px){
+    .partners_container_content{
+        overflow-x: hidden ;
+    }
+}
