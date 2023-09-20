@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teste_jussi/static/css/main.ad559449.css",
+    "main.js": "/teste_jussi/static/js/main.033bbaa7.js",
+    "static/media/image-jussi.png": "/teste_jussi/static/media/image-jussi.d28fb51aa5f3ab06ea83.png",
+    "static/media/produtos.png": "/teste_jussi/static/media/produtos.9f5d817cb3c8d09782f4.png",
+    "index.html": "/teste_jussi/index.html",
+    "main.ad559449.css.map": "/teste_jussi/static/css/main.ad559449.css.map",
+    "main.033bbaa7.js.map": "/teste_jussi/static/js/main.033bbaa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad559449.css",
+    "static/js/main.033bbaa7.js"
+  ]
+}
