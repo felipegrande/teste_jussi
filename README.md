@@ -7,8 +7,11 @@ Este projeto trata-se da elaboração de uma home page seguindo o layout propost
 Nese projetos foram utilizados as seguintes tecnologias:
 
 ReactJs
+
 JavaScript 
+
 CSS
+
 TypeScript
 
 ## Comandos
@@ -16,9 +19,11 @@ TypeScript
 Para rodas o projetos utilziar os seguintes comandos:
 
 yarn
+
 yarn start
 
 ## API
 
 Na tarefa de consumo de API aberta, foi utilizada a API viacep.
+
 Incluido um CEP no input ele retorna o endereço  a cidade e o estado.
